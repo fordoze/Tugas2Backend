@@ -1,0 +1,18 @@
+1. Clone Repository Ini 
+
+2. Lanjutkan Untuk Membuat CRUD Dari Entitiy Berikut Sesuai dengan Controllers Sebelumnya 
+
+dengan urutan sebagai berikut : 
+- Admiin 
+- Buku 
+- Users
+- Users Books
+
+3. Tugas Ini Akan Di Lanjutkan Di AHri jumat Pukul 19:30 WIB
+
+## **Cara Menjalankan Project**
+
+- Clone Repository Ini 
+- Jalankan Command : go run main.go 
+
+
